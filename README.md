@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Olá, eu sou Leonardo Machado de Souza
 
-<!--
-**Leomachado1706/Leomachado1706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Perfil Profissional
 
-Here are some ideas to get you started:
+- 💻 Estudante de Programação
+- 🌱 Apaixonado por Tecnologia
+- 🎓 Cursando [Análise e Desenvolvimento de Sistemas / Fatec]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Habilidades
+
+Aqui estão algumas das linguagens de programação e tecnologias que estou familiarizado:
+
+## 👨‍💻 Linguagens: 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)
+
+## 🧰 Frameworks: 
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express)](https://skillicons.dev)
+
+## 🗄️ Bancos de Dados: 
+[![My Skills](https://skillicons.dev/icons?i=mongo)](https://skillicons.dev)
+## ⚙️ Ferramentas:
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman)](https://skillicons.dev)<br><br>
+
+## 📫 Contato
+
+[![Gmail Badge](https://img.shields.io/badge/-leo.msouza1706@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leo.msouza1706@gmail.com)](mailto:leo.msouza1706@gmail.com)
+[![Linkedin: Leonardo](https://img.shields.io/badge/-Leonardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/leonardo-machado-souza/)/)]((https://www.linkedin.com/in/leonardo-machado-souza/))
+[![Instagram](https://img.shields.io/badge/-leomachado1707-purple?style=flat-square&logo=Instagram&logoColor=white&link=(https://www.instagram.com/leomachado1707/))](https://www.instagram.com/leomachado1707/) <br><br>
+
+Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊
