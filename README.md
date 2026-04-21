@@ -17,9 +17,9 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,fastapi)](https://skillicons.dev)
 
 ## 🗄️ Bancos de Dados: 
-[![My Skills](https://skillicons.dev/icons?i=mongo,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sqlite,postgres)](https://skillicons.dev)
 ## ⚙️ Ferramentas:
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,notion,postman,wordpress)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,notion,postman)](https://skillicons.dev)<br><br>
 
 ## 📫 Contato
 
