@@ -1,33 +1,15 @@
-# 👋 Olá, eu sou Leonardo Machado de Souza
+#  Leonardo Machado
 
-## 💼 Perfil Profissional
+**`Student`**
 
-- 💻 Estudante de Programação
-- 🌱 Apaixonado por Tecnologia
-- 🎓 Cursando [Análise e Desenvolvimento de Sistemas / Fatec]
+Backend Java Engineer with 5+ years of experience designing and maintaining enterprise-grade integration systems for major financial institutions. Proven track record of reducing troubleshooting time through robust observability and error-handling strategies, successfully migrating 100+ webservice endpoints while maintaining 99.9% availability across systems handling 4M+ daily requests. Skilled in Java, Quarkus, Apache Camel, Kafka, and cloud-native architectures on OpenShift/Kubernetes. Currently focused on complex cross-system integrations involving Salesforce, SAP, and real-time data pipelines for the energy sector in Scotland.
 
-## 🚀 Habilidades
 
-Aqui estão algumas das linguagens de programação e tecnologias que estou familiarizado:
+---
 
-## 👨‍💻 Linguagens: 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)
+### 🧰 Languages and Tools
 
-## 🧰 Frameworks: 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,fastapi)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=py,cs,postgres,git,github" />
 
-## 🗄️ Bancos de Dados: 
-[![My Skills](https://skillicons.dev/icons?i=sqlite,postgres)](https://skillicons.dev)
-## ⚙️ Ferramentas:
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,notion,postman)](https://skillicons.dev)<br><br>
+<br />
 
-## 📫 Contato
-
-[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:leo.msouza1706@gmail.com)
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/leonardo-machado-souza/)
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/leomachado1707/)<br><br>
-[![Gmail Badge](https://img.shields.io/badge/-leo.msouza1706@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leo.msouza1706@gmail.com)](mailto:leo.msouza1706@gmail.com)
-[![Linkedin: Leonardo](https://img.shields.io/badge/-Leonardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/leonardo-machado-souza/)/)]((https://www.linkedin.com/in/leonardo-machado-souza/))
-[![Instagram](https://img.shields.io/badge/-leomachado1707-purple?style=flat-square&logo=Instagram&logoColor=white&link=(https://www.instagram.com/leomachado1707/))](https://www.instagram.com/leomachado1707/) <br><br>
-
-Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊
