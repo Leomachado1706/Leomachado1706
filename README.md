@@ -2,7 +2,7 @@
 
 **`Student`**
 
-Backend Java Engineer with 5+ years of experience designing and maintaining enterprise-grade integration systems for major financial institutions. Proven track record of reducing troubleshooting time through robust observability and error-handling strategies, successfully migrating 100+ webservice endpoints while maintaining 99.9% availability across systems handling 4M+ daily requests. Skilled in Java, Quarkus, Apache Camel, Kafka, and cloud-native architectures on OpenShift/Kubernetes. Currently focused on complex cross-system integrations involving Salesforce, SAP, and real-time data pipelines for the energy sector in Scotland.
+Software Engineering student pursuing a degree in Analysis and Systems Development (ADS) with the ambition of becoming a Data Engineer. Hands-on experience in building practical projects focused on data manipulation, database querying, and version control. Skilled in Python, SQL, JavaScript, and web fundamentals for structuring data pipelines and application logic. Continuously expanding knowledge across relational databases and Linux environments, currently focusing on advanced data modeling and Data Engineering architectures.
 
 
 ---
